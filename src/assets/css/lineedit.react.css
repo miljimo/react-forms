@@ -1,0 +1,13 @@
+
+:local(.lineEdit){
+   border:1px solid #d9d9d9;
+   background-color:transparent;
+   background-position:center center ;
+   background-repeat: no-repeat;
+   background-size: 15px 15px;	;
+   background-color: #f2f2f2;
+   padding:2px;   
+   margin:0px;
+   display:block;
+
+}
